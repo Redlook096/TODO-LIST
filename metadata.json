@@ -1,0 +1,5 @@
+{
+  "name": "Animated To-Dos",
+  "description": "An animated to-do list component with shimmer and loading states.",
+  "requestFramePermissions": []
+}
